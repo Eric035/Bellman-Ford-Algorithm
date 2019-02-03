@@ -6,11 +6,15 @@ The method **shortestPath** will return the list of nodes as an array of integer
 shortest path from the source to the node destination. If this path does not exists, the method
 should throw an exception.
 
-Test inputs:              Expected Outputs: 
-1. bf1.txt                1. 0-->2-->5-->7-->8
-2. bf2.txt                2. Error: there isn't a path exists between the node: 0 and the node: 7
-3. bf3.txt                3. Error: there isn't a path exists between the node: 0 and the node: 7
-4. bf4.txt                4. 0-->2-->5-->7-->6-->8
+Test inputs:              
+1. bf1.txt                
+2. bf2.txt                
+3. bf3.txt                
+4. bf4.txt                
 
-
+Expected Outputs: 
+1. 0-->2-->5-->7-->8
+2. Error: there isn't a path exists between the node: 0 and the node: 7
+3. Error: there isn't a path exists between the node: 0 and the node: 7
+4. 0-->2-->5-->7-->6-->8
 
