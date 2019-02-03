@@ -6,6 +6,9 @@ The method **shortestPath** will return the list of nodes as an array of integer
 shortest path from the source to the node destination. If this path does not exists, the method
 should throw an exception.
 
+Use this following command to execute your input file: java BellmanFord -YOUR INPUT FILE-
+
+
 Test inputs:              
 1. bf1.txt                
 2. bf2.txt                
